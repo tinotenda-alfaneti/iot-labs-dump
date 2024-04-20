@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+<p><a href="https://www.address.com">Link text</a> </p>
+<p> <a href="apage.html">another page</a> </p>
+<img src="picture.jpeg" width="100" height="100">
+
+<table>
+  <tr>
+    <td>Kofi</td>
+    <td>Yaa</td>
+    <td>Mensah</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>23</td>
+    <td>18</td>
+  </tr>
+</table>
+
+</body>
+<html>
